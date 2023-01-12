@@ -1,0 +1,4 @@
+for design use ---> antd , bootstrap, -->material ui
+
+animation picture use from -->  lottie website 
+for background color according to our theme----  webgradients.com
